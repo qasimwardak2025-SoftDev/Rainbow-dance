@@ -1,0 +1,10 @@
+Desktop
+Documents
+Downloads
+file_list.txt
+Library
+Movies
+Music
+OneDrive
+Pictures
+Public
